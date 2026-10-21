@@ -13,7 +13,7 @@ class BalanceController extends Controller
      */
     public function index()
     {
-        //
+        //this is index method
     }
 
     /**
